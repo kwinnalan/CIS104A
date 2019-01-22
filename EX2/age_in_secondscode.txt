@@ -1,0 +1,11 @@
+integer ageInYears
+
+integer secondsInOneYear
+
+secondsInOneYear=31557600
+
+ageInYears = Get next input
+
+Put "Your Age in seconds " to output
+
+Put ageInYears*secondsInOneYear to output
